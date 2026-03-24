@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for visiting my repository.  More to follow here. 
+Thanks for visiting my repository.  You will find a lot of variations of code and data in these repositories.  More to follow here. 
